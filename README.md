@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 Currently diving deep into backend and frontend development
-👯 Excited to collaborate on blockchain projects
-🤝 Open to connecting and learning from blockchain experts
-🌱 Currently sharpening my skills in blockchain and smart contract development
+🔭 Currently diving deep into backend and frontend development<br>
+👯 Excited to collaborate on blockchain projects<br>
+🤝 Open to connecting and learning from blockchain experts<br>
+🌱 Currently sharpening my skills in blockchain and smart contract development<br>
 ⚡ Fun Fact: Blockchain seems complex until you build your first smart contract — then it’s just pure magic!
 
 
