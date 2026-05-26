@@ -181,13 +181,11 @@ Backtracking      █████████████░░░░░░░  
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img 
-src="https://github-profile-trophy.vercel.app/?username=Amishmathur1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"
-/>
+<img src="https://github-contributor-stats.vercel.app/api?username=Amishmathur1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 </div>
 ---
