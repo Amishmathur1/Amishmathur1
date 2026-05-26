@@ -1,12 +1,13 @@
 <div align="center">
 
 <!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d001a&height=220&section=header&text=AMISH%20MATHUR&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20%7C%20Python%20Fanatic%20%7C%20Full%20Stack%20%7C%20DSA%20Grinder&descAlignY=60&descSize=18&descColor=c084fc"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&repeat=true&width=750&height=55&lines=🤖+Building+Agentic+AI+Systems;🐍+Python+is+my+first+language+%26+last+resort;🧩+DSA+%3A+Because+Brute+Force+is+Boring;🌐+Full+Stack+%3A+Front+to+Back+%26+Everything+Between;🚀+Shipping+Intelligence%2C+One+Commit+at+a+Time" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/> -->
 
 <br/><br/>
 
