@@ -3,17 +3,14 @@
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d001a&height=220&section=header&text=AMISH%20MATHUR&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20%7C%20Python%20Fanatic%20%7C%20Full%20Stack%20%7C%20DSA%20Grinder&descAlignY=60&descSize=18&descColor=c084fc"/>
 
-<!-- TYPING ANIMATION — NOTE: renders as animated SVG on GitHub, not as text -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&repeat=true&width=750&height=55&lines=🤖+Building+Agentic+AI+Systems;🐍+Python+is+my+first+language+%26+last+resort;🧩+DSA+%3A+Because+Brute+Force+is+Boring;🌐+Full+Stack+%3A+Front+to+Back+%26+Everything+Between;⛓️+Blockchain%3F+A+lil+bit+—+still+magic+tho;🚀+Shipping+Intelligence%2C+One+Commit+at+a+Time" alt="" />
 
 <br/>
 
-<!-- ANIME BANNER GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480"/>
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amish-mathur-226476297/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Amish851181)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/AmishMathur/)
@@ -137,66 +134,17 @@ print(me.fun_fact())
 
 ---
 
-## 🤖 Agentic AI — My Main Arena
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420"/>
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="220">
-
-**🧠 Core Focus**
-```
-✅ LLM Agent Design
-✅ Tool Calling Systems
-✅ RAG Pipelines
-🔄 Multi-Agent Workflows
-🔄 Memory & Reflection
-```
-
-</td>
-<td align="center" width="220">
-
-**🛠️ Stack**
-```
-🔥 LangChain / LangGraph
-🔥 OpenAI / Anthropic APIs
-🔥 Vector DBs (Pinecone)
-🔥 Python — always Python
-🌐 FastAPI for serving
-```
-
-</td>
-<td align="center" width="220">
-
-**🚀 Building Toward**
-```
-🎯 Autonomous AI Agents
-🎯 Self-healing Pipelines
-🎯 AI-powered Dev Tools
-🎯 Real-time Agent UIs
-🎯 Production AI Apps
-```
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🧩 DSA — The Grind Never Stops
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/AmishMathur/)
 &nbsp;
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/AmishMathur)
 &nbsp;
-![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/AmishMathur)
+&nbsp;
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/AmishMathur)
 
 <br/><br/>
 
@@ -208,6 +156,10 @@ Heaps & Tries     ███████████████░░░░░  
 Sliding Window    ████████████████████  💪 Strong
 Backtracking      █████████████░░░░░░░  🔄 Practicing
 ```
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amishmathur1&custom_title=DSA%20Grind%20Activity&bg_color=1a1b27&color=c084fc&line=9333ea&point=e879f9&area=true&hide_border=true&radius=8" width="95%"/>
 
 </div>
 
@@ -225,12 +177,6 @@ Backtracking      █████████████░░░░░░░  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amishmathur1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&border_radius=12" width="42%"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amishmathur1&custom_title=Amish%27s%20Contribution%20Graph&bg_color=1a1b27&color=c084fc&line=9333ea&point=e879f9&area=true&hide_border=true&radius=8" width="95%"/>
 </div>
 
 ---
