@@ -169,13 +169,13 @@ Backtracking      █████████████░░░░░░░  
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amishmathur1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amishmathur1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amishmathur1&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Amishmathur1&theme=tokyonight&hide_border=true&background=00000000&ring=c084fc&fire=c084fc&currStreakLabel=c084fc"/>
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amishmathur1&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amishmathur1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&text_color=ffffff"/>
 
 </div>
 
@@ -185,9 +185,10 @@ Backtracking      █████████████░░░░░░░  
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Amishmathur1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Amishmathur1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
 
 </div>
+
 ---
 
 ## 🐍 Contributions Getting Eaten
