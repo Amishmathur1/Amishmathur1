@@ -1,210 +1,150 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
+<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d001a&height=220&section=header&text=AMISH%20MATHUR&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20%7C%20Python%20Fanatic%20%7C%20Full%20Stack%20%7C%20DSA%20Grinder&descAlignY=60&descSize=18&descColor=c084fc"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&repeat=true&width=750&height=55&lines=🤖+Building+Agentic+AI+Systems;🐍+Python+is+my+first+language+%26+last+resort;🧩+DSA+%3A+Because+Brute+Force+is+Boring;🌐+Full+Stack+%3A+Front+to+Back+%26+Everything+Between;⛓️+Blockchain%3F+A+lil+bit+—+still+magic+tho;🚀+Shipping+Intelligence%2C+One+Commit+at+a+Time" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&repeat=true&width=750&height=55&lines=🤖+Building+Agentic+AI+Systems;🐍+Python+is+my+first+language+%26+last+resort;🧩+DSA+%3A+Because+Brute+Force+is+Boring;🌐+Full+Stack+%3A+Front+to+Back+%26+Everything+Between;🚀+Shipping+Intelligence%2C+One+Commit+at+a+Time" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/>
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amish-mathur-226476297/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Amish851181)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/AmishMathur/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/Amish#1563)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/AmishMathur)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mathur_amish)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30397235/amish-mathur)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathuramish21@gmail.com)
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Amishmathur1&label=Profile+Views&color=9333ea&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Amishmathur1&label=Profile+Views&color=9333ea&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"> Who Am I
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"> About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
 
 ```python
 class AmishMathur:
+
     def __init__(self):
-        self.name       = "Amish Mathur"
-        self.location   = "India 🇮🇳"
-        self.role       = "Dev | Builder | AI Tinkerer"
+        self.name = "Amish Mathur"
+        self.role = "Developer | AI Builder"
+        self.location = "India 🇮🇳"
 
-    @property
-    def main_focus(self):
+    def currently_working_on(self):
         return [
-            "🤖 Agentic AI Systems",
-            "🐍 Python — obsessed",
-            "🧩 DSA — grinding daily",
-            "🌐 Full Stack Development",
-            "⛓️ Blockchain — a lil bit",
-        ]
-
-    @property
-    def currently_learning(self):
-        return [
-            "LLM Agents & Tool Calling",
-            "LangChain / LangGraph",
-            "Advanced System Design",
-            "Smart Contracts (side quest)",
+            "🤖 Agentic AI",
+            "🧠 LLM Systems",
+            "🐍 Python",
+            "🌐 Full Stack Apps",
+            "🧩 DSA"
         ]
 
     def fun_fact(self):
-        return "Python has a solution for everything. \
-Even for finding a solution."
+        return "Python can probably solve your life too."
 
 me = AmishMathur()
 print(me.fun_fact())
-# Python has a solution for everything. Even for finding a solution.
 ```
 
 <br clear="right"/>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> Tech Arsenal
+# ⚒️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,react,nextjs,nodejs,fastapi,flask&theme=dark&perline=11" />
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,postgres,mysql,supabase,prisma,tailwind,vite,figma&theme=dark&perline=11" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,arduino,powershell,anaconda,canva&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nextjs,nodejs,fastapi,flask,mongodb,postgres,mysql,git,github,tailwind,vite,figma,linux&theme=dark"/>
 
 </div>
 
-<br/>
-
-<details open>
-<summary><b>🐍 Languages</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI / Agentic Stack</b></summary>
-<br/>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-</details>
-
-<details open>
-<summary><b>🌐 Full Stack</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-</details>
-
 ---
 
-## 🧩 DSA — The Grind Never Stops
+# 🧠 DSA Grind
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/AmishMathur/)
-&nbsp;
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/AmishMathur)
-&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/AmishMathur)
-&nbsp;
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/AmishMathur)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AmishMathur/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AmishMathur)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/AmishMathur)
 
 <br/><br/>
 
-```
-Arrays & Strings  ██████████████████░░  💪 Strong
-Trees & Graphs    ██████░░░░░░░░░░░░░░  📈 Improving
-DP                ████████████░░░░░░░░  🔥 Grinding
-Heaps & Tries     ███████░░░░░░░░░░░░░  ⚡ Getting there
-Sliding Window    ██████████████████░░  💪 Strong
-Backtracking      █████████████░░░░░░░  🔄 Practicing
+```txt
+Arrays & Strings  ██████████████████░░  Strong
+Sliding Window    ██████████████████░░  Strong
+Trees & Graphs    ████████░░░░░░░░░░░░  Improving
+DP                ████████████░░░░░░░░  Grinding
+Backtracking      █████████████░░░░░░░  Practicing
 ```
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amishmathur1&custom_title=DSA%20Grind%20Activity&bg_color=1a1b27&color=c084fc&line=9333ea&point=e879f9&area=true&hide_border=true&radius=8" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amishmathur1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c084fc&line=9333ea&point=ffffff&area=true"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Amishmathur1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amishmathur1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=Amishmathur1&theme=tokyonight&hide_border=true&background=00000000&ring=c084fc&fire=c084fc&currStreakLabel=c084fc"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amishmathur1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&text_color=ffffff"/>
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amishmathur1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&text_color=ffffff"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amishmathur1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Amishmathur1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6&cache_seconds=86400"/>
 
 </div>
 
 ---
 
-## 🐍 Contributions Getting Eaten
+# 🐍 Contributions Getting Eaten
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amishmathur1/Amishmathur1/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amishmathur1/Amishmathur1/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Amishmathur1/Amishmathur1/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+
+<img src="https://raw.githubusercontent.com/Amishmathur1/Amishmathur1/output/github-contribution-grid-snake-dark.svg"/>
+
 </div>
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:1a0533,100:0d0d0d&height=130&section=footer&animation=fadeIn"/>
+# 🚀 Current Focus
 
-**⚡ Amish Mathur — Shipping Intelligence, One Commit at a Time ⚡**
+```txt
+→ Building AI Agents
+→ Grinding DSA Daily
+→ Learning Advanced Backend Systems
+→ Exploring LLM Tool Calling
+→ Shipping Cool Stuff
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:1a0533,100:0d0d0d&height=120&section=footer"/>
+
+### ⚡ Shipping Intelligence, One Commit at a Time ⚡
+
 </div>
