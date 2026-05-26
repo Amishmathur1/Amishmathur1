@@ -149,11 +149,11 @@ print(me.fun_fact())
 <br/><br/>
 
 ```
-Arrays & Strings  ████████████████████  💪 Strong
-Trees & Graphs    ████████████████░░░░  📈 Improving
+Arrays & Strings  ██████████████████░░  💪 Strong
+Trees & Graphs    ██████░░░░░░░░░░░░░░  📈 Improving
 DP                ████████████░░░░░░░░  🔥 Grinding
-Heaps & Tries     ███████████████░░░░░  ⚡ Getting there
-Sliding Window    ████████████████████  💪 Strong
+Heaps & Tries     ███████░░░░░░░░░░░░░  ⚡ Getting there
+Sliding Window    ██████████████████░░  💪 Strong
 Backtracking      █████████████░░░░░░░  🔄 Practicing
 ```
 
@@ -169,13 +169,13 @@ Backtracking      █████████████░░░░░░░  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amishmathur1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=12" width="48%"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=Amishmathur1&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" width="48%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amishmathur1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amishmathur1&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amishmathur1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&border_radius=12" width="42%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amishmathur1&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
@@ -184,9 +184,12 @@ Backtracking      █████████████░░░░░░░  
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amishmathur1&theme=onestar&no-frame=true&margin-w=8&column=4&row=2" />
-</div>
 
+<img 
+src="https://github-profile-trophy.vercel.app/?username=Amishmathur1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"
+/>
+
+</div>
 ---
 
 ## 🐍 Contributions Getting Eaten
