@@ -105,50 +105,239 @@ Becoming a stronger software engineer by going deeper into systems, AI and backe
 
 ---
 
+---
+
 ## 03 / TECHNOLOGY
 
-### Languages
+<table width="100%">
+<tr>
 
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=A8B9CC)
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=ED8B00)
+<td width="38%" align="center" valign="middle">
 
-### Backend & Data
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248)
+<br><br>
 
-### AI / Development
+<sub><b>TOOLS THAT POWER MY IDEAS</b></sub>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED)
+</td>
+
+<td width="62%" valign="middle">
+
+<table width="100%">
+
+<tr>
+<td width="25%">
+<b>LANGUAGES</b>
+</td>
+
+<td>
+
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=00599C">
+<img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=A8B9CC">
+<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=ED8B00">
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E">
+
+</td>
+</tr>
+
+<tr>
+<td>
+<b>BACKEND & DATA</b>
+</td>
+
+<td>
+
+<img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=009688">
+<img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1">
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1">
+<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248">
+
+</td>
+</tr>
+
+<tr>
+<td>
+<b>AI / ML</b>
+</td>
+
+<td>
+
+<img src="https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=EE4C2C">
+<img src="https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=FF6F00">
+<img src="https://img.shields.io/badge/RAG-111111?style=flat-square&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/LLMs-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Embeddings-111111?style=flat-square">
+
+</td>
+</tr>
+
+<tr>
+<td>
+<b>DEVELOPER TOOLS</b>
+</td>
+
+<td>
+
+<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624">
+<img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED">
+<img src="https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=FF6C37">
+
+</td>
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 04 / CODING
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/AmishMathur/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/AmishMathur)
-[![CodeChef](https://img.shields.io/badge/CodeChef-111111?style=for-the-badge&logo=codechef&logoColor=FFFFFF)](https://www.codechef.com/users/AmishMathur)
+<table width="100%">
+<tr>
 
-`Arrays` · `Graphs` · `Trees` · `Dynamic Programming` · `Algorithms`
+<td width="38%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
+
+<br><br>
+
+<sub><b>PRACTICE TODAY · STRONGER TOMORROW</b></sub>
+
+</td>
+
+<td width="62%" valign="middle">
+
+<table width="100%">
+
+<tr>
+
+<td align="center">
+
+<a href="https://leetcode.com/u/AmishMathur/">
+
+<img src="https://img.shields.io/badge/LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116">
+
+</a>
+
+<br>
+
+<sub>Problem Solving</sub>
+
+</td>
+
+<td align="center">
+
+<a href="https://codeforces.com/profile/AmishMathur">
+
+<img src="https://img.shields.io/badge/CODEFORCES-111111?style=for-the-badge&logo=codeforces&logoColor=1F8ACB">
+
+</a>
+
+<br>
+
+<sub>Competitive Programming</sub>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.codechef.com/users/AmishMathur">
+
+<img src="https://img.shields.io/badge/CODECHEF-111111?style=for-the-badge&logo=codechef&logoColor=FFFFFF">
+
+</a>
+
+<br>
+
+<sub>Competitive Programming</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<b>FOCUS AREAS</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Arrays-181818?style=flat-square">
+<img src="https://img.shields.io/badge/Graphs-181818?style=flat-square">
+<img src="https://img.shields.io/badge/Trees-181818?style=flat-square">
+<img src="https://img.shields.io/badge/Dynamic%20Programming-181818?style=flat-square">
+<img src="https://img.shields.io/badge/Algorithms-181818?style=flat-square">
+<img src="https://img.shields.io/badge/Greedy-181818?style=flat-square">
+<img src="https://img.shields.io/badge/Binary%20Search-181818?style=flat-square">
+<img src="https://img.shields.io/badge/Heaps-181818?style=flat-square">
+<img src="https://img.shields.io/badge/Strings-181818?style=flat-square">
+
+<br><br>
+
+<sub>
+Think → Solve → Optimize → Repeat
+</sub>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 05 / EDUCATION
 
-**B.Tech — Electronics & Computer Engineering**  
+<table width="100%">
+<tr>
+
+<td width="38%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+
+<br><br>
+
+<sub><b>FOUNDATIONS FOR A BIGGER TOMORROW</b></sub>
+
+</td>
+
+<td width="62%" valign="middle">
+
+### 🎓 B.Tech — Electronics & Computer Engineering
+
 **SRM Institute of Science and Technology**
 
-`Electronics` · `Computer Science` · `Software Engineering`
+<br>
+
+Building a foundation across software engineering, computer science, electronics and real-world engineering.
+
+<br>
+
+<img src="https://img.shields.io/badge/Electronics-181818?style=flat-square">
+<img src="https://img.shields.io/badge/Computer%20Science-181818?style=flat-square">
+<img src="https://img.shields.io/badge/Software%20Engineering-181818?style=flat-square">
+<img src="https://img.shields.io/badge/Hardware%20Systems-181818?style=flat-square">
+<img src="https://img.shields.io/badge/Embedded%20Systems-181818?style=flat-square">
+
+<br><br>
+
+<sub>
+Curiosity → Knowledge → Engineering
+</sub>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
