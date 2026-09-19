@@ -26,7 +26,6 @@
 | **How I learn** | Understand → build → break → debug → rebuild. |
 | **Current direction** | Becoming a stronger software engineer by going deeper into systems, AI and backend development. |
 
-<br>
 
 ![Coding](https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif)
 
@@ -71,36 +70,7 @@
 
 ---
 
-## 04 / ENGINEERING MINDSET
-
-```text
-              ┌──────────────┐
-              │    LEARN     │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │    BUILD     │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │    BREAK     │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │    DEBUG     │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │   REBUILD    │
-              └──────────────┘
-```
-
-> I don't want to just use abstractions.
-> I want to understand what's underneath them.
-
----
-
-## 05 / CODING
+## 04 / CODING
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/AmishMathur/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-111111?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/AmishMathur)
@@ -110,7 +80,7 @@
 
 ---
 
-## 06 / EDUCATION
+## 05 / EDUCATION
 
 **B.Tech — Electronics & Computer Engineering**  
 **SRM Institute of Science and Technology**
@@ -124,9 +94,7 @@
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <div align="center">
-
-### `build → break → learn → rebuild`
-
+  
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/amish-mathur-226476297/)
