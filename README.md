@@ -21,7 +21,6 @@
 
 <table>
 <tr>
-
 <td width="68%" valign="top">
 
 <table>
@@ -48,15 +47,13 @@
 
 </td>
 
-<td width="32%" align="center" valign="middle">
+<td width="32%" rowspan="4" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
 </td>
-
 </tr>
 </table>
----
 
 ## 02 / CURRENTLY BUILDING MYSELF
 
