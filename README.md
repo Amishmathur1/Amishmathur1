@@ -16,44 +16,48 @@
 ![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ---
-
 ## 01 / ABOUT
 
-<table>
+<table width="100%">
 <tr>
-<td width="68%" valign="top">
+<td width="18%"><b>Who I am</b></td>
 
-<table>
-<tr>
-<td width="25%"><b>Who I am</b></td>
-<td>I'm <b>Amish Mathur</b>, a 4th-year Electronics & Computer Engineering student at <b>SRM Institute of Science and Technology</b>.</td>
+<td width="52%">
+I'm <b>Amish Mathur</b>, a 4th-year Electronics & Computer Engineering student at <b>SRM Institute of Science and Technology</b>.
+</td>
+
+<td width="30%" rowspan="4" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="190">
+</td>
 </tr>
 
 <tr>
 <td><b>What I enjoy</b></td>
-<td>Building software around <b>AI, backend engineering, databases and algorithms</b>.</td>
+
+<td>
+Building software around <b>AI, backend engineering, databases and algorithms</b>.
+</td>
 </tr>
 
 <tr>
 <td><b>How I learn</b></td>
-<td>Understand → build → break → debug → rebuild.</td>
+
+<td>
+Understand → build → break → debug → rebuild.
+</td>
 </tr>
 
 <tr>
 <td><b>Current direction</b></td>
-<td>Becoming a stronger software engineer by going deeper into systems, AI and backend development.</td>
-</tr>
-</table>
 
-</td>
-
-<td width="32%" rowspan="4" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
-
+<td>
+Becoming a stronger software engineer by going deeper into systems, AI and backend development.
 </td>
 </tr>
+
 </table>
+
+<br>
 
 ## 02 / CURRENTLY BUILDING MYSELF
 
