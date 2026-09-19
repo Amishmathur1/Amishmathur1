@@ -61,14 +61,48 @@ Becoming a stronger software engineer by going deeper into systems, AI and backe
 
 ## 02 / CURRENTLY BUILDING MYSELF
 
-<div align = 'center'>
-| AI / LLM | Backend | Problem Solving | Systems |
-|---|---|---|---|
-| RAG | FastAPI | DSA | System Design |
-| Embeddings | REST APIs | LeetCode | Linux |
-| LLM Applications | SQL | Algorithms | Databases |
-| Tool Calling | Authentication | C++ / Python | Architecture |
+<div align="center">
+
+<table>
+<tr>
+<th>🤖 AI / LLM</th>
+<th>⚡ Backend</th>
+<th>🧠 Problem Solving</th>
+<th>🏗️ Systems</th>
+</tr>
+
+<tr>
+<td align="center">RAG</td>
+<td align="center">FastAPI</td>
+<td align="center">DSA</td>
+<td align="center">System Design</td>
+</tr>
+
+<tr>
+<td align="center">Embeddings</td>
+<td align="center">REST APIs</td>
+<td align="center">LeetCode</td>
+<td align="center">Linux</td>
+</tr>
+
+<tr>
+<td align="center">LLM Applications</td>
+<td align="center">SQL</td>
+<td align="center">Algorithms</td>
+<td align="center">Databases</td>
+</tr>
+
+<tr>
+<td align="center">Tool Calling</td>
+<td align="center">Authentication</td>
+<td align="center">C++ / Python</td>
+<td align="center">Architecture</td>
+</tr>
+
+</table>
+
 </div>
+
 ---
 
 ## 03 / TECHNOLOGY
