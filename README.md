@@ -1,150 +1,103 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d001a&height=220&section=header&text=AMISH%20MATHUR&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20%7C%20Python%20Fanatic%20%7C%20Full%20Stack%20%7C%20DSA%20Grinder&descAlignY=60&descSize=18&descColor=c084fc"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:160d2b,100:050505&height=180&section=header&text=AMISH%20MATHUR&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20%2B%20BACKEND%20%2B%20SYSTEMS&descAlignY=61&descSize=16&descColor=c084fc"/>
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&repeat=true&width=750&height=55&lines=🤖+Building+Agentic+AI+Systems;🐍+Python+is+my+first+language+%26+last+resort;🧩+DSA+%3A+Because+Brute+Force+is+Boring;🌐+Full+Stack+%3A+Front+to+Back+%26+Everything+Between;🚀+Shipping+Intelligence%2C+One+Commit+at+a+Time" /> -->
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Building+AI-powered+systems;Python+%7C+FastAPI+%7C+LLMs;DSA+%7C+Backend+%7C+System+Design;Turning+ideas+into+working+software" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450"/> 
+<br><br>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/amish-mathur-226476297/">
+<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/AmishMathur/">
+<img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=flat-square&logo=leetcode&logoColor=FFA116"/>
+</a>
+&nbsp;
+<a href="https://github.com/Amishmathur1">
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/Amish851181">
+<img src="https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amish-mathur-226476297/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Amish851181)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/AmishMathur/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/AmishMathur)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mathur_amish)
+<br><br>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Amishmathur1&label=Profile+Views&color=9333ea&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Amishmathur1&style=flat-square&color=7c3aed&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px"> About Me
+## `~/about`
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+I'm **Amish**, an Electronics & Computer Engineering student who enjoys building things at the intersection of **AI, backend engineering and systems**.
 
 ```python
-class AmishMathur:
-
-    def __init__(self):
-        self.name = "Amish Mathur"
-        self.role = "Developer | AI Builder"
-        self.location = "India 🇮🇳"
-
-    def currently_working_on(self):
-        return [
-            "🤖 Agentic AI",
-            "🧠 LLM Systems",
-            "🐍 Python",
-            "🌐 Full Stack Apps",
-            "🧩 DSA"
-        ]
-
-    def fun_fact(self):
-        return "Python can probably solve your life too."
-
-me = AmishMathur()
-print(me.fun_fact())
+focus = {
+    "building": ["LLM systems", "AI applications", "APIs"],
+    "backend": ["Python", "FastAPI", "SQL"],
+    "learning": ["System Design", "RAG", "Distributed Systems"],
+    "grinding": "DSA"
+}
 ```
 
 <br clear="right"/>
 
 ---
 
-# ⚒️ Tech Arsenal
+## `⚙ stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nextjs,nodejs,fastapi,flask,mongodb,postgres,mysql,git,github,tailwind,vite,figma,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,fastapi,flask,react,nextjs,nodejs,postgres,mysql,mongodb,git,github,linux,docker&theme=dark"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
 
 </div>
 
 ---
 
-# 🧠 DSA Grind
+## `🧠 currently`
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AmishMathur/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AmishMathur)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/AmishMathur)
-
-<br/><br/>
-
-```txt
-Arrays & Strings  ██████████████████░░  Strong
-Sliding Window    ██████████████████░░  Strong
-Trees & Graphs    ████████░░░░░░░░░░░░  Improving
-DP                ████████████░░░░░░░░  Grinding
-Backtracking      █████████████░░░░░░░  Practicing
-```
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amishmathur1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c084fc&line=9333ea&point=ffffff&area=true"/>
+|     | Focus                                                |
+| --- | ---------------------------------------------------- |
+| 🤖  | **LLM & AI Systems** — RAG, embeddings, tool calling |
+| ⚡   | **Backend Engineering** — FastAPI, APIs, databases   |
+| 🧩  | **DSA** — problem solving & competitive programming  |
+| 🏗️ | **System Design** — architecture & scalable systems  |
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## `📈 activity`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amishmathur1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&icon_color=c084fc&text_color=ffffff"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amishmathur1&show_icons=true&hide_border=true&bg_color=00000000&title_color=c084fc&icon_color=c084fc&text_color=9ca3af&rank_icon=github"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Amishmathur1&theme=tokyonight&hide_border=true&background=00000000&ring=c084fc&fire=c084fc&currStreakLabel=c084fc"/>
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amishmathur1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=c084fc&text_color=ffffff"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Amishmathur1&hide_border=true&background=00000000&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&sideLabels=9ca3af&dates=6b7280"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amishmathur1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6&cache_seconds=86400"/>
+### `build → break → learn → rebuild`
 
-</div>
+<br>
 
----
-
-# 🐍 Contributions Getting Eaten
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Amishmathur1/Amishmathur1/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🚀 Current Focus
-
-```txt
-→ Building AI Agents
-→ Grinding DSA Daily
-→ Learning Advanced Backend Systems
-→ Exploring LLM Tool Calling
-→ Shipping Cool Stuff
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:1a0533,100:0d0d0d&height=120&section=footer"/>
-
-### ⚡ Shipping Intelligence, One Commit at a Time ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:160d2b,100:050505&height=100&section=footer"/>
 
 </div>
