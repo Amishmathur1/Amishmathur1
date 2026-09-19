@@ -61,13 +61,14 @@ Becoming a stronger software engineer by going deeper into systems, AI and backe
 
 ## 02 / CURRENTLY BUILDING MYSELF
 
+<div align = 'center'>
 | AI / LLM | Backend | Problem Solving | Systems |
 |---|---|---|---|
 | RAG | FastAPI | DSA | System Design |
 | Embeddings | REST APIs | LeetCode | Linux |
 | LLM Applications | SQL | Algorithms | Databases |
 | Tool Calling | Authentication | C++ / Python | Architecture |
-
+</div>
 ---
 
 ## 03 / TECHNOLOGY
